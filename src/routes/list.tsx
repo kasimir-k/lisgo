@@ -2,7 +2,7 @@ import { Title } from "@solidjs/meta";
 
 const listName = "My List"
 
-export default function About() {
+export default function List() {
   return (
     <main>
       <Title>Lisgo | {listName}</Title>

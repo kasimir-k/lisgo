@@ -7,9 +7,7 @@ export default function NotFound() {
       <Title>Not Found</Title>
       <HttpStatusCode code={404} />
       <h1>Page Not Found</h1>
-      <p>
-        <a href="/">Start page</a>
-      </p>
+
     </main>
   );
 }
