@@ -1,0 +1,17 @@
+import { Title } from "@solidjs/meta";
+
+const listName = "My List"
+
+export default function About() {
+  return (
+    <main>
+      <Title>Lisgo | Lists</Title>
+      <h1>Your lists:</h1>
+      <ul>
+        <li>
+          <a href="../list/">My List</a>
+        </li>
+      </ul>
+    </main>
+  );
+}
