@@ -30,10 +30,12 @@ Properties marked with "*" are used as the key.
 - List
   - owner*: User.email
   - contributors: User.email[]
-  - name*: string
+  - slug*: string
+  - name: string
 - Item
   - list*: List.name
   - name*: string
   - checked: boolean
   - lastChecked: timestamp
   - checkingCount: number
+  - listPriority: number
