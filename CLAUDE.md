@@ -1,0 +1,3 @@
+- Keep it simple
+- Prefer clarity over brevity
+- Write the smallest amount of code that achieves the desired result
