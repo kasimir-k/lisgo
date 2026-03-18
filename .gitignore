@@ -5,6 +5,7 @@ dist
 .netlify
 .vinxi
 .nitro
+.local-kv
 app.config.timestamp_*.js
 
 # Environment
