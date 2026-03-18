@@ -23,7 +23,7 @@ Lisgo is a list app. It can be used as shopping list, todo list, or other list w
 
 ## Entities
 
-Properties marked with "*" are used as the key.
+Properties marked with "*" are used as the key in KV.
 
 - User
   - email*: string
@@ -38,4 +38,4 @@ Properties marked with "*" are used as the key.
   - checked: boolean
   - lastChecked: timestamp
   - checkingCount: number
-  - listPriority: number
+  - listingPriority: number
